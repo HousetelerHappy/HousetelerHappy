@@ -12,6 +12,17 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+<hr>
+<br>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a style="margin:'5px'" href="https://twitter.com/https://codesandbox.io/u/housetelerhappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://codesandbox.io/u/housetelerhappy" height="30" width="40" /></a>
+<a style="margin:'5px'" href="https://linkedin.com/in/https://www.linkedin.com/in/dbent-ayush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dbent-ayush/" height="30" width="40" /></a>
+<a  style="margin:'5px'" href="https://codesandbox.com/https://codesandbox.io/u/housetelerhappy" target="blank" style="padding:'5px'"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/housetelerhappy" height="30" width="40" /></a>
+</p>
+
 
 
 
@@ -40,12 +51,7 @@
 <hr>
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://codesandbox.io/u/housetelerhappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://codesandbox.io/u/housetelerhappy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dbent-ayush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dbent-ayush/" height="30" width="40" /></a>
-<a  href="https://codesandbox.com/https://codesandbox.io/u/housetelerhappy" target="blank" style="padding:'5px'"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/housetelerhappy" height="30" width="40" /></a>
-</p>
+
 
 <br>
 <hr>
